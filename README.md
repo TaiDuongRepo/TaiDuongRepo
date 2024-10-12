@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tài Dương</h1>
 <h3 align="center">A passionate Data Engineer from Vietnam 🇻🇳</h3>
 
-- 🔭 I’m currently working on **DevCỏ Professional**
+- 🔭 I’m currently working on [**Bluebolt Software**](https://blueboltsoftware.com/)
 - 🌱 I’m currently learning **FastAPI,**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
